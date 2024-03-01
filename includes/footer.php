@@ -1,0 +1,1 @@
+<footer class="app-footer"><p>&copy; Pulse Contact • 2024 ATP Project</p></footer>
