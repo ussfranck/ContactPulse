@@ -4,7 +4,10 @@ Pulse Contact is a simple and streamlined web application developed in PHP as pa
 
 # Preview
 
-![Website Preview]()
+![Website Preview](https://github.com/ussfranck/ContactPulse/blob/main/img2.png?raw=true)
+<hr/>
+
+![Website Preview](https://github.com/ussfranck/ContactPulse/blob/main/img3.png?raw=true)
 <hr/>
 
 ## Key Features
